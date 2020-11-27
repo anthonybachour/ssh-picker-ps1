@@ -1,3 +1,5 @@
+![SSH Picker](ssh-picker-preview.jpg)
+
 # What is this #
 SSH-PICKER is a basic SSH host picker.
 Use it with a Windows Terminal shortcut to SSH into any host defined in your SSH config file.
