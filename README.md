@@ -1,10 +1,10 @@
 # What is this #
 SSH-PICKER is a basic SSH host picker.
-Use it with a Windows Terminal shortcut to SSH into any server defined in you SSH config file.
+Use it with a Windows Terminal shortcut to SSH into any host defined in your SSH config file.
 
 # How to use it #
 
-## SSH Profile
+## SSH Profile ##
 The script reads your ssh hosts from your ~/.ssh/config file
 
 Example entry:
@@ -16,7 +16,7 @@ Host ssh-name
     IdentityFile ~/.ssh/key.pem
 ```
 
-## Creating a Windows Terminal shortcut
+## Creating a Windows Terminal shortcut ##
 - Clone the repository
 - In Windows Terminal / PowerShell run the following command: [guid]::NewGuid()
 - In Windows Terminal settings (Hit the down arrow in the WT menu and click on settings)
